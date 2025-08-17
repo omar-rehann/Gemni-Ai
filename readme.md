@@ -3,7 +3,7 @@
 An interactive front-end simulation of an AI assistant inspired by Gemini. Built to demonstrate conversational logic, dynamic UI updates, and user-centric design principles. Ideal for showcasing front-end skills in AI-themed interfaces.
 
 ## 🔗 Live Demo
-[Try Gemini AI](https://your-gemini-ai-link.com)
+[Try Gemini AI](https://omar-rehann.github.io/Gemni-Ai/)
 
 ## 🛠️ Technologies Used
 - HTML5
@@ -45,7 +45,7 @@ An interactive front-end simulation of an AI assistant inspired by Gemini. Built
 ## 📬 Contact
 - Email: your.email@example.com  
 - GitHub: [Your GitHub](https://github.com/omar-rehann)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/omar-rehan)
 
 ---
 
